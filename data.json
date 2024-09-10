@@ -4,8 +4,9 @@
     "events": [
         {
             "name": "Revenge of the Lost Nation",
-            "banner": "",
-            "files": []
+            "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/master/revenge_of_the_lost_nation/",
+            "banner": "banner.png",
+            "files": ["429406101.cpk", "429406102.cpk", "429406103.cpk", "429406104.cpk"]
         }
 
     ]
