@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "update_url": "",
+    "update_url": "https://github.com/DaddyRaegen/FFBE-JP-Patcher/releases/download/v1.0/ffbe_patcher_installer.exe",
     "events": [
         {
             "name": "Revenge of the Lost Nation",
