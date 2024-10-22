@@ -1,12 +1,13 @@
 {
-    "version": 1,
-    "update_url": "https://github.com/DaddyRaegen/FFBE-JP-Patcher/releases/download/v1.0/ffbe_patcher_installer.exe",
+    "version": 2,
+    "update_url": "https://github.com/DaddyRaegen/FFBE-JP-Patcher/releases/download/v2.0/ffbe_patcher_installer.exe",
     "events": [
         {
-            "name": "core",
+            "name": "Core Files",
             "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/master/core/",
             "banner": "banner.png",
-            "files": ["Ver1261_SsidX62G.dat", "Ver2890_7FGj2bCh.dat", "Ver4164_TK61DudV.dat"]
+            "files": ["Ver1261_SsidX62G.dat", "Ver2890_7FGj2bCh.dat", "Ver4164_TK61DudV.dat"],
+            "payload_files": ["common.cpk"]
         },
         {
             "name": "Revenge of the Lost Nation",
