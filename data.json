@@ -6,15 +6,29 @@
             "name": "Core Files",
             "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/master/core/",
             "banner": "banner.png",
-            "files": ["Ver1261_SsidX62G.dat", "Ver2890_7FGj2bCh.dat", "Ver4164_TK61DudV.dat"],
-            "payload_files": ["common.cpk"]
+            "files": [
+                "Ver1263_SsidX62G.dat",
+                "Ver2906_7FGj2bCh.dat",
+                "Ver4177_TK61DudV.dat"
+            ],
+            "payload_files": [
+                "common.cpk"
+            ]
         },
         {
             "name": "Revenge of the Lost Nation",
             "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/master/revenge_of_the_lost_nation/",
             "banner": "banner.png",
-            "files": ["429406101.cpk", "429406102.cpk", "429406103.cpk", "429406104.cpk", "429406201.cpk", "429406202.cpk", "429406203.cpk", "429406204.cpk"]
+            "files": [
+                "429406101.cpk",
+                "429406102.cpk",
+                "429406103.cpk",
+                "429406104.cpk",
+                "429406201.cpk",
+                "429406202.cpk",
+                "429406203.cpk",
+                "429406204.cpk"
+            ]
         }
-
     ]
 }
