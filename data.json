@@ -4,7 +4,7 @@
     "events": [
         {
             "name": "Core Files",
-            "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/master/core/",
+            "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/refs/heads/master/core/",
             "banner": "banner.png",
             "files": [
                 "Ver1263_SsidX62G.dat",
@@ -19,7 +19,7 @@
         },
         {
             "name": "Revenge of the Lost Nation",
-            "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/master/revenge_of_the_lost_nation/",
+            "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/refs/heads/master/revenge_of_the_lost_nation/",
             "banner": "banner.png",
             "files": [
                 "429406101.cpk",
