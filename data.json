@@ -12,7 +12,9 @@
                 "Ver4177_TK61DudV.dat"
             ],
             "payload_files": [
-                "common.cpk"
+                "common.cpk",
+                "resources.cpk",
+                "spritestudio.cpk"
             ]
         },
         {
