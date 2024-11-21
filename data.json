@@ -1,6 +1,6 @@
 {
-    "version": 2,
-    "update_url": "https://github.com/DaddyRaegen/FFBE-JP-Patcher/releases/download/v2.0/ffbe_patcher_installer.exe",
+    "version": 3,
+    "update_url": "https://github.com/DaddyRaegen/FFBE-JP-Patcher/releases/download/v3.0/ffbe_patcher_installer.exe",
     "game_version": "10.1.0",
     "events": [
         {
