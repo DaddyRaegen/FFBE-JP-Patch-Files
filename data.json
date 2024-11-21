@@ -1,16 +1,17 @@
 {
     "version": 2,
     "update_url": "https://github.com/DaddyRaegen/FFBE-JP-Patcher/releases/download/v2.0/ffbe_patcher_installer.exe",
+    "game_version": "10.1.0",
     "events": [
         {
             "name": "Core Files",
             "url": "https://github.com/DaddyRaegen/FFBE-JP-Patch-Files/raw/refs/heads/master/core/",
             "banner": "banner.png",
-            "event_version": 1,
+            "event_version": 2,
             "files": [
-                "Ver1267_SsidX62G.dat",
-                "Ver2918_7FGj2bCh.dat",
-                "Ver4186_TK61DudV.dat"
+                "Ver1273_SsidX62G.dat",
+                "Ver2936_7FGj2bCh.dat",
+                "Ver4202_TK61DudV.dat"
             ],
             "payload_files": [
                 "common.cpk",
