@@ -1,7 +1,7 @@
 {
     "version": 3,
     "update_url": "https://github.com/DaddyRaegen/FFBE-JP-Patcher/releases/download/v3.0/ffbe_patcher_installer.exe",
-    "game_version": "10.1.0",
+    "game_version": "10.2.0",
     "events": [
         {
             "name": "Core Files",
@@ -14,9 +14,9 @@
                 "spritestudio.cpk"
             ],
             "files": [
-                "Ver1290_SsidX62G.dat",
-                "Ver3008_7FGj2bCh.dat",
-                "Ver4263_TK61DudV.dat"
+                "Ver1306_SsidX62G.dat",
+                "Ver3051_7FGj2bCh.dat",
+                "Ver4299_TK61DudV.dat"
             ]
         },
         {
